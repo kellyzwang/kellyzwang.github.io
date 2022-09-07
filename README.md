@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a senior student at UW Seattle majoring in Informatics, with a focus on data science and human-computer interaction. I'm most passionate about data analysis, database management, machine learning, and web development.
 
+Link to my portfolio: https://kellyzwang.github.io 
+
 <!--
 **kellyzwang/kellyzwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
